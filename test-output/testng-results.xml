@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13446" started-at="2020-04-12T12:54:49Z" finished-at="2020-04-12T12:55:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13446" started-at="2020-04-12T12:54:49Z" finished-at="2020-04-12T12:55:02Z">
+      <class name="com.test.CalTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.CalTest@5c3bd550]" name="setup" is-config="true" duration-ms="7028" started-at="2020-04-12T12:54:49Z" finished-at="2020-04-12T12:54:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testSum()[pri:1, instance:com.test.CalTest@5c3bd550]" name="testSum" duration-ms="2307" started-at="2020-04-12T12:54:56Z" finished-at="2020-04-12T12:54:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSum -->
+        <test-method status="PASS" signature="testSub()[pri:2, instance:com.test.CalTest@5c3bd550]" name="testSub" duration-ms="2027" started-at="2020-04-12T12:54:58Z" finished-at="2020-04-12T12:55:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSub -->
+        <test-method status="PASS" signature="testDiv()[pri:3, instance:com.test.CalTest@5c3bd550]" name="testDiv" duration-ms="2064" started-at="2020-04-12T12:55:00Z" finished-at="2020-04-12T12:55:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDiv -->
+      </class> <!-- com.test.CalTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
